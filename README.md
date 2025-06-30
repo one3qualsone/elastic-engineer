@@ -96,7 +96,7 @@ Data lifecycle management, monitoring strategies, and operational best practices
 
 This series is designed to be read sequentially, as each module builds conceptual understanding that supports later topics. Take time to really understand each concept - that's where the real learning happens.
 
-**Start with:** [Fundamentals - Elasticsearch's Position in the Modern Stack](#)
+**Start with:** [Fundamentals - Elasticsearch's Position in the Modern Stack](https://github.com/one3qualsone/elastic-engineer/tree/main/00-fundamentals)
 
 ---
 
